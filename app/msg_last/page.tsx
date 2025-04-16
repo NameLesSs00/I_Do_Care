@@ -57,10 +57,10 @@ export default function FinalPage() {
         {/* Section 1 */}
         <div className="p-8 bg-neutral-700 rounded-3xl">
           <h2 className="text-3xl font-bold text-white mb-4">
-            Knowing that you've come this far... you do care about me, right?
+            Knowing that yo &apos;ve come this far... you do care about me, right?
           </h2>
           <p className="text-lg text-gray-200">
-            Listen, Dunya — let's handle this like adults. You have the choice
+            Listen, Dunya — let&apos;s handle this like adults. You have the choice
             to either continue or not. I will never push you toward a decision
             you don&apos;t want to make. By now, I hope you know that I want to
             continue — because I believe I can learn a lot from you.
@@ -122,7 +122,7 @@ export default function FinalPage() {
             <DialogTitle className="text-2xl text-center">
               {responseType === "yes"
                 ? "Good to know that you care too ❤️"
-                : "That&apos;s okay."}
+                : "That's okay."}
             </DialogTitle>
             <DialogDescription className="text-center text-gray-300 mt-4 text-lg">
               {responseType === "yes"

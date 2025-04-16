@@ -7,7 +7,7 @@ export default function ThankYouPage() {
         Thank you for your time and caring for me
       </h1>
       <p className="text-lg text-gray-300 max-w-xl">
-        I'm okay with your choice.
+        I&apos;m okay with your choice.
         <br />
         I hope you to have a great life regardless of your choice.
       </p>
